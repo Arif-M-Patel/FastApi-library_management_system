@@ -9,6 +9,7 @@ step1:  Create User
 step2 : Authorize by using user Authentication
 
 ---------username : enter_email
+
 ---------password : Pass
         
 step3:  after Authenticate
