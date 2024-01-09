@@ -1,5 +1,9 @@
 # FastApi-library_management_system
 
+#install requirements.txt file
+
+"pip install -r requirements.txt"
+
 run "uvicorn main:app --reload"
 
 visit "http://127.0.0.1:8000/docs"
